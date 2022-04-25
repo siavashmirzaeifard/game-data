@@ -1,16 +1,7 @@
-# game_data_bloc
+# Game Data Application with BLoC architecture.
 
-A new Flutter project.
+This project contains 2 different screens and based on BLoC architecture (Repository pattern).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is another BLoC state manager project, and APIs comes from "https://www.gamerpower.com/api/giveaways", also for handling some animations I used flutter_hooks pub.
